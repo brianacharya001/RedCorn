@@ -1,0 +1,14 @@
+title: Sample Document
+author: John Doe
+date: 2024-08-28
+sections:
+  - title: Introduction
+    content: |
+      This is an introduction to the sample document. It explains the purpose and contents of the document.
+  - title: Main Content
+    content: |
+      Here is the main content of the document. It contains detailed information about the subject.
+  - title: Conclusion
+    content: |
+      The conclusion summarizes the key points and offers final thoughts.
+
